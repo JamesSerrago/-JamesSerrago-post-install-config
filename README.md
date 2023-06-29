@@ -29,7 +29,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/DJmEXE].png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
   Login to osTicket with the login we created in the previous section.
@@ -115,11 +116,9 @@ We can set up a grace period that gives us a idea of how long you will have to f
 </p>
 <p>
 In order to configure Help Topics we will need to go to Admin Panel -> Manage -> Help Topics
-
 and then create new.
 
 From here we can create topics that users can choose to label the issue they may be having.
-
 For example we can choose Business Critcal Outage and make it a top level topic so its severity can be properly expressed.
 
 
