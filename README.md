@@ -53,7 +53,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 In order to configure departments we still need to be in the Admin panel then Agents tab-> Departments tab
 
-Create new department and we can name it System Administrators
+Create new department and we can name it System Administrators.
 
 
 </p>
@@ -65,7 +65,7 @@ Create new department and we can name it System Administrators
 <p>
 In order to configure teams we will need to head to the Admin Panel -> Agents -> Teams
 
-We can then name it something like Level II Support
+We can then name it something like Level II Support.
 </p>
 <br />
 
@@ -85,7 +85,7 @@ Make sure that Require Registration is unchecked to allow anonymous ticket creat
 <p>
 In order to configure and add agents we will need to go through Admin Panel -> Agents -> Add New
 
-We can use whatever names we want for example Jane Dough. We can then set there username, password and job status such as their department and permissions
+We can use whatever names we want for example Jane Dough. We can then set there username, password and job status such as their department and permissions.
 </p>
 <br />
 
@@ -114,18 +114,14 @@ We can set up a grace period that gives us a idea of how long you will have to f
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In order to configure and add agents we will need to go through Admin Panel -> Agents -> Add New
+In order to configure Help Topics we will need to go to Admin Panel -> Manage -> Help Topics
 
-We can use whatever names we want for example Jane Dough. We can then set there username, password and job status such as their department and permissions
-</p>
-<br />
+and then create new.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-In order to configure and add agents we will need to go through Admin Panel -> Agents -> Add New
+From here we can create topics that users can choose to label the issue they may be having.
 
-We can use whatever names we want for example Jane Dough. We can then set there username, password and job status such as their department and permissions
+For example we can choose Business Critcal Outage and make it a top level topic so its severity can be properly expressed.
+
+
 </p>
 <br />
