@@ -102,9 +102,11 @@ and we can use whatever names we want here as well.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In order to configure and add agents we will need to go through Admin Panel -> Agents -> Add New
+In order to configure SLA's we will need to go to the Admin Panel -> Manage -> SLA
 
-We can use whatever names we want for example Jane Dough. We can then set there username, password and job status such as their department and permissions
+From here we can create a new SLA plan and call it SEV-A for example. This will allow us to set up a rule that we can follow in order to prioritize tcikets that we may receive.
+
+We can set up a grace period that gives us a idea of how long you will have to fulfill the ticket. Then also setup a schedule to to see if a timeframe of availability will matter for the ticket.
 </p>
 <br />
 
