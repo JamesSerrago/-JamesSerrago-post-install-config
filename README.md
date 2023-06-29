@@ -73,7 +73,7 @@ We can then name it something like Level II Support
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To make sure anyoneone can create tickets we will need to haed to Admin Panel -> Settings -> User Settings 
+To make sure anyoneone can create tickets we will need to head to Admin Panel -> Settings -> User Settings 
 
 Make sure that Require Registration is unchecked to allow anonymous ticket creation.
 </p>
