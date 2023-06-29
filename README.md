@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="[https://i.imgur.com/DJmEXE].png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/geNeT4p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 </p>
 <p>
@@ -49,7 +49,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gHsArxr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 In order to configure departments we still need to be in the Admin panel then Agents tab-> Departments tab
@@ -61,17 +61,17 @@ Create new department and we can name it System Administrators.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M62M5Io.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In order to configure teams we will need to head to the Admin Panel -> Agents -> Teams
 
-We can then name it something like Level II Support.
+We can then name it something like Level I Support.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Eh7hrzS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To make sure anyoneone can create tickets we will need to head to Admin Panel -> Settings -> User Settings 
@@ -81,7 +81,7 @@ Make sure that Require Registration is unchecked to allow anonymous ticket creat
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Rhvu4Nd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In order to configure and add agents we will need to go through Admin Panel -> Agents -> Add New
@@ -91,7 +91,7 @@ We can use whatever names we want for example Jane Dough. We can then set there 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ppFwPyu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In order to configure some new users we will need to head through the Agents Panel -> Users -> Add New
@@ -100,7 +100,7 @@ and we can use whatever names we want here as well.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/R2hVoSQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In order to configure SLA's we will need to go to the Admin Panel -> Manage -> SLA
@@ -112,7 +112,7 @@ We can set up a grace period that gives us a idea of how long you will have to f
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EAmDRyO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In order to configure Help Topics we will need to go to Admin Panel -> Manage -> Help Topics
