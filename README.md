@@ -83,7 +83,9 @@ Make sure that Require Registration is unchecked to allow anonymous ticket creat
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In order to configure and add agents we will need to go through Admin Panel -> Agents -> Add New
+
+We can use whatever names we want for example Jane Dough. We can then set there username, password and job status such as their department and permissions
 </p>
 <br />
 
@@ -91,6 +93,37 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In order to configure some new users we will need to head through the Agents Panel -> Users -> Add New
+and we can use whatever names we want here as well.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In order to configure and add agents we will need to go through Admin Panel -> Agents -> Add New
+
+We can use whatever names we want for example Jane Dough. We can then set there username, password and job status such as their department and permissions
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In order to configure and add agents we will need to go through Admin Panel -> Agents -> Add New
+
+We can use whatever names we want for example Jane Dough. We can then set there username, password and job status such as their department and permissions
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In order to configure and add agents we will need to go through Admin Panel -> Agents -> Add New
+
+We can use whatever names we want for example Jane Dough. We can then set there username, password and job status such as their department and permissions
 </p>
 <br />
