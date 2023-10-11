@@ -54,7 +54,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 In order to configure departments we still need to be in the Admin panel then Agents tab-> Departments tab
 
-Create new department and we can name it System Administrators.
+Create a new department and we can name it System Administrators.
 
 
 </p>
@@ -74,7 +74,7 @@ We can then name it something like Level I Support.
 <img src="https://i.imgur.com/Eh7hrzS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To make sure anyoneone can create tickets we will need to head to Admin Panel -> Settings -> User Settings 
+To make sure anyone can create tickets we will need to head to Admin Panel -> Settings -> User Settings 
 
 Make sure that Require Registration is unchecked to allow anonymous ticket creation.
 </p>
@@ -86,7 +86,7 @@ Make sure that Require Registration is unchecked to allow anonymous ticket creat
 <p>
 In order to configure and add agents we will need to go through Admin Panel -> Agents -> Add New
 
-We can use whatever names we want for example Jane Dough. We can then set there username, password and job status such as their department and permissions.
+We can use whatever names we want for example Jane Dough. We can then set their username, password, and job status such as their department and permissions.
 </p>
 <br />
 
@@ -103,11 +103,11 @@ and we can use whatever names we want here as well.
 <img src="https://i.imgur.com/R2hVoSQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In order to configure SLA's we will need to go to the Admin Panel -> Manage -> SLA
+In order to configure SLA we will need to go to the Admin Panel -> Manage -> SLA
 
-From here we can create a new SLA plan and call it SEV-A for example. This will allow us to set up a rule that we can follow in order to prioritize tcikets that we may receive.
+From here we can create a new SLA plan and call it SEV-A for example. This will allow us to set up a rule that we can follow in order to prioritize tickets that we may receive.
 
-We can set up a grace period that gives us a idea of how long you will have to fulfill the ticket. Then also setup a schedule to to see if a timeframe of availability will matter for the ticket.
+We can set up a grace period that gives us an idea of how long you will have to fulfill the ticket. Then also set up a schedule to to see if a timeframe of availability will matter for the ticket.
 </p>
 <br />
 
